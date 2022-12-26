@@ -9,6 +9,20 @@ Currently Rental bikes are introduced in many urban cities for the enhancement o
 Data Description:
 The dataset contains weather information (Temperature, Humidity, Windspeed, Visibility, Dewpoint, Solar radiation, Snowfall, Rainfall), the number of bikes rented per hour and date information.
 
+We will do with following set of work
+
+Workflow
+Data Collection and Understanding
+Data Wrangling & Feature Engineering
+EDA
+Preparation of data for model building.
+Model Selection and Evaluation
+Conclusion
+![image](https://user-images.githubusercontent.com/94465266/209511908-cadc009c-6cd8-4d3c-a4f3-78cf270d73b5.png)
+
+![image](https://user-images.githubusercontent.com/94465266/209511938-d5fc6338-dcde-4a1c-82ec-6b8ed2c03250.png)
+
+
 Attribute Information:
 • Date : year-month-day
 
@@ -38,6 +52,11 @@ Attribute Information:
 
 • Functional Day - NoFunc(Non Functional Hours), Fun(Functional hours)
 
-CONCLUSION:-
-![image](https://user-images.githubusercontent.com/94465266/209511759-63bf83bb-464a-4d3a-a23b-39f8e4c715e8.png)
+
+
+**CONCLUSION:-**
+Random forest Regressor and Gradient Boosting gridsearchcv gives the highest R2 score of 99% and 90% respectively for Train Set and 92% for Test set.
+Feature Importance value for Random Forest and Gradient Boost are different.
+• We can deploy this model.
+![image](https://user-images.githubusercontent.com/94465266/209511858-62b5bc73-a882-4710-905b-c2e5ba426f2c.png)
 
