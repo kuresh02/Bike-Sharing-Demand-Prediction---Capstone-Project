@@ -60,8 +60,12 @@ Attribute Information:
 
 
 **CONCLUSION:-**
+
 Random forest Regressor and Gradient Boosting gridsearchcv gives the highest R2 score of 99% and 90% respectively for Train Set and 92% for Test set.
+
 Feature Importance value for Random Forest and Gradient Boost are different.
+
 • We can deploy this model.
+
 ![image](https://user-images.githubusercontent.com/94465266/209511858-62b5bc73-a882-4710-905b-c2e5ba426f2c.png)
 
