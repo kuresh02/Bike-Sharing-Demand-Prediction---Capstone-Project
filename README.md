@@ -37,3 +37,7 @@ Attribute Information:
 • Holiday - Holiday/No holiday
 
 • Functional Day - NoFunc(Non Functional Hours), Fun(Functional hours)
+
+CONCLUSION:-
+![image](https://user-images.githubusercontent.com/94465266/209511759-63bf83bb-464a-4d3a-a23b-39f8e4c715e8.png)
+
