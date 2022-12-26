@@ -12,13 +12,18 @@ The dataset contains weather information (Temperature, Humidity, Windspeed, Visi
 We will do with following set of work
 
 Workflow
+
 Data Collection and Understanding
+
 Data Wrangling & Feature Engineering
+
 EDA
-Preparation of data for model building.
+
+Preparation of data for model building
+
 Model Selection and Evaluation
+
 Conclusion
-![image](https://user-images.githubusercontent.com/94465266/209511908-cadc009c-6cd8-4d3c-a4f3-78cf270d73b5.png)
 
 ![image](https://user-images.githubusercontent.com/94465266/209511938-d5fc6338-dcde-4a1c-82ec-6b8ed2c03250.png)
 
